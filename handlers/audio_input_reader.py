@@ -1,6 +1,3 @@
-# RESOURCES:
-# for pyaudio input streaming https://stackoverflow.com/a/35390981
-
 import time
 import pyaudio
 import wave
